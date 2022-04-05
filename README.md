@@ -52,6 +52,6 @@ pagination in range(1,15) - range will depend on how many pages you would like t
 
 This will create a csv file:
 
-[Sample Output]()
+[Sample Output](https://github.com/DmitriiDes/yellowpages-scraper/blob/master/plumbing-Toronto%2BON-pg14-yellowpages-scraped-data.csv)
  
  
